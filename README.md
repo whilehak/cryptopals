@@ -1,4 +1,4 @@
-# cryptopals crypto challenges
-[cryptopals](https://cryptopals.com)
+# the cryptopals crypto challenges
+challenges found at [cryptopals](https://cryptopals.com)
 
-challenge solve scripts by whilehak
+these are my solve scripts
